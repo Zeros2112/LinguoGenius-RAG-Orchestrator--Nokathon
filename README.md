@@ -41,7 +41,7 @@ The RAG system is designed to enhance document retrieval and generation based on
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/advanced-rag-system.git
+git clone https://github.com/Zeros2112/advanced-rag-system.git
 cd advanced-rag-system
 ```
 
