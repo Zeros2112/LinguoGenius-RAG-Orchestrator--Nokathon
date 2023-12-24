@@ -1,5 +1,4 @@
 # LinguoGenius RAG Orchestrator @Nokathon
-# Advanced RAG System with TruLens and Flask
 
 This repository contains code for building an advanced Retrieval-Augmented Generation (RAG) system using TruLens, Flask, and related libraries.
 
