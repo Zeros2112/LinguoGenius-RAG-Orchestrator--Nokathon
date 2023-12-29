@@ -6,6 +6,10 @@ This repository contains code for building an advanced Retrieval-Augmented Gener
 
 The RAG system is designed to enhance document retrieval and generation based on user queries. It incorporates TruLens for feedback-driven evaluation, Flask for creating a web interface, and a merging index approach for efficient document retrieval.
 
+## Demo 
+
+[Google_drive](https://drive.google.com/drive/folders/1sLuWOaiDY6MK9eTsGG__usgcbsyLCEB9?usp=sharing)
+
 ## Components
 
 1. TruLens Setup
